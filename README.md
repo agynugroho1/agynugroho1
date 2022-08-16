@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agy</h1>
 <h3 align="center">A passionate creating program using Java and testing program using Selenium, Appium, Rest Assured, Katalon, and JMeter (Performance Testing).</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agynugroho1" alt="agynugroho1" /></a> </p>
-
 - 🌱 I’m currently learning **Docker, CI/CD, and AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/agynugroho1](https://github.com/agynugroho1)
