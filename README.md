@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agy</h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agynugroho1&show_icons=true&locale=en" alt="agynugroho1" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agynugroho1&show_icons=true&locale=en" alt="agynugroho1" /></p>
 <h3 align="center">A passionate creating program using Java and testing program using Selenium, Appium, Rest Assured, Katalon, and JMeter (Performance Testing).</h3>
 
 - 🌱 I’m currently learning **Docker, CI/CD, and AWS**
